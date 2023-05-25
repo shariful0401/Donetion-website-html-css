@@ -139,3 +139,33 @@ div small {
 #need{
   margin-top: 80px;
 }
+#update{
+  text-align: center;
+}
+.get-update{
+  font-size: 20px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.get-update h1{
+  font-size: 40px;
+}
+.email{
+  background-color: rgb(211, 169, 154);
+  width: 650px;
+  margin-left: 400px;
+  height: 100px;
+  padding-top: 50px;
+  margin-top: 20px;
+}
+#input{
+  padding: 10px;
+  border-radius: 5px;
+}
+#button{
+  background-color: red;
+  margin-right: 3px;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+}
