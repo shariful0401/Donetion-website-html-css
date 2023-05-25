@@ -80,18 +80,21 @@ div small {
   background-color: rgb(182, 238, 220);
   margin: 20px;
   padding: 20px;
+  border-radius: 2px;
 }
 
 #two {
   background-color: rgb(235, 209, 160);
   margin: 20px;
   padding: 10px;
+  border-radius: 2px;
 }
 
 #three {
   background-color: antiquewhite;
   margin: 20px;
   padding: 10px;
+  border-radius: 2px;
 }
 
 #third-section{
@@ -115,4 +118,24 @@ div small {
 }
 #forth-section{
   display: flex;
+  font-size: 20px;
+  margin: 50px;
+  padding: 30px;
+}
+.suvive{
+  width: 50%;
+  margin: 20px;
+  padding: 20px;
+}
+.suvive img{
+  width: 600px;
+  height: 500px;
+  border-radius: 5px;
+}
+.suvive h1{
+  font-size: 40px;
+  font-weight: 35px;
+}
+#need{
+  margin-top: 80px;
 }
